@@ -1,0 +1,23 @@
+// Dictionaries
+
+/*
+var person = ["Taylor", "Alison", "Swift", "December", "taylorswift.com"]
+person[1]
+person[3]
+*/
+
+/*
+var person = ["first": "Taylor", "middle": "Alison", "last": "Swift", "month": "December", "website": "taylorswift.com"]
+person["middle"]
+person["month"]
+*/
+
+var person = [
+    "first": "Taylor",
+    "middle": "Alison",
+    "last": "Swift",
+    "month": "December",
+    "website": "taylorswift.com"
+]
+person["middle"]
+person["month"]
