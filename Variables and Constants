@@ -1,0 +1,16 @@
+// Variables and constants
+
+import UIKit
+
+var name = "Tim McGraw" // var keyword is for variables that can change values
+name = "Romeo"
+
+/*
+let name = "Tim McGraw"
+name = "Romeo" // error because let keyword indicates variable should not be changed, as it is constant
+*/
+
+/*
+var name = "Tim McGraw"
+var name = "Romeo" // error because variable name is used twice
+*/
